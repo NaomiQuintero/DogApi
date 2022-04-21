@@ -1,0 +1,35 @@
+.navbar{
+    background-color: gray;
+
+}
+
+.header{
+    background-color: rgb(235, 213, 203);
+    width: 100%;
+    text-align: center;
+    height: 600px;
+    vertical-align:middle;
+    padding: 8% 0;
+    /* position: absolute; */
+}
+
+.fa-dog{
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+div.contentB{
+    padding-top: 50px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+
+img{
+    height: 500px;
+    width: 50vw;
+    max-height: 600px;
+    display: flex;
+}
